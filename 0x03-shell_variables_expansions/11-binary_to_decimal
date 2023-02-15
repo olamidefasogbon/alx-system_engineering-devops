@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((0b$BINARY))
+echo $((2#$BINARY))
